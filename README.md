@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-Game built on ReactJs.
+Tic Tac Toe Game built on ReactJs.
 
 ## UI
 
