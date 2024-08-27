@@ -54,6 +54,7 @@ function Square({ value, onClick }) {
   );
 }
 function Board() {
+  // This is the board states
   const [squares, setSquares] = useState(Array(9).fill(null));
   const [xIsNext, setXIsNext] = useState(true);
   const [winner, setWinner] = useState(null);
